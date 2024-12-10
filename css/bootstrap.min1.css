@@ -26,7 +26,7 @@
  
  @media (max-width: 768px) {
     .img-fluid {
-        height: 260px; /* Sesuaikan tinggi untuk layar kecil */
+        height: 210px; /* Sesuaikan tinggi untuk layar kecil */
     }
 }
 
