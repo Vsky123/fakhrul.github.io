@@ -131,7 +131,7 @@ a:focus {
   margin-right: auto;
   margin-top: 2rem;
 }
-.lainnya .lain {
+.lainnya .a {
   position: relative;
   background-color: #6bb7be;
   border: 1px solid #6bb7be;
@@ -144,7 +144,7 @@ a:focus {
 }
 
 /* Darker background on mouse-over */
-.lainnya .lain:hover {
+.lainnya .a:hover {
   background-color: white;
   border: 1px solid #6bb7be;
   color: #6bb7be;
