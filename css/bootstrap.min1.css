@@ -26,6 +26,12 @@
  
  @media (max-width: 768px) {
     .img-fluid {
+        height: 260px; /* Sesuaikan tinggi untuk layar kecil */
+    }
+}
+
+@media (max-width: 500px) {
+    .img-fluid {
         height: 210px; /* Sesuaikan tinggi untuk layar kecil */
     }
 }
@@ -35,7 +41,6 @@
         height: 410px; /* Sesuaikan tinggi untuk layar besar */
     }
 }
-
 
  article,
  aside,
